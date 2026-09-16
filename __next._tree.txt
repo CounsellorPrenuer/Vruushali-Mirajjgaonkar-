@@ -1,0 +1,4 @@
+:HL["/Vruushali-Mirajjgaonkar-/_next/static/css/4e29d04c3ce4522e.css","style"]
+:HL["/Vruushali-Mirajjgaonkar-/logo.png","image"]
+:HL["/Vruushali-Mirajjgaonkar-/founder.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"llyZzbhh3fz0133IzjKU4"}
